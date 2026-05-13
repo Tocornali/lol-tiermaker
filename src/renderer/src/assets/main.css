@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tier-s: #ff7f7f;
+  --color-tier-a: #ffbf7f;
+  --color-tier-b: #ffff7f;
+  --color-tier-c: #bfff7f;
+  --color-tier-d: #7fffbf;
+  --color-tier-pool: #334155;
+
+  /* Colores Signature */
+  --color-turquoise-300: #7FE5E0;
+  --color-turquoise-500: #20B2AA;
+  --color-turquoise-700: #188A84;
+  --color-turquoise-900: #0D4D4A;
+
+  --color-graphite-950: #121416;
+  --color-graphite-900: #1A1C1E;
+  --color-graphite-800: #26292C;
+  --color-graphite-700: #3F4448;
+  --color-graphite-600: #565D63;
+}
